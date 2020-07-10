@@ -1,16 +1,14 @@
-### Hi there 👋
+# Junior Silva :man_technologist:
 
-<!--
-**juniorpb/juniorpb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lucasgdb)](https://github.com/juniorpb)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/junior-silva-138589143/)](https://www.linkedin.com/in/rebeccamanzi/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rebeccamanzi@gmail.com)](mailto:junior.cgjr@gmail.com)
 
-Here are some ideas to get you started:
+### Hellooo! 👋 Welcome to my profile
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My name is Junior and I'm Software developer.
+
+ - 🔥 In love with JavaScript
+ - 🔥 Currently learning NodeJs and ReactJs
+ - 😄 Also DevOps 
+ 
