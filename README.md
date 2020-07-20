@@ -9,6 +9,6 @@
 My name is Junior and I'm Software developer.
 
  - 🔥 In love with JavaScript
- - 🔥 Currently learning NodeJs and ReactJs
+ - 🔥 Currently learning Java, NodeJs and ReactJs
  - 😄 Also DevOps 
  
