@@ -6,9 +6,7 @@
 
 ### Hellooo! 👋 Welcome to my profile
 
-My name is Junior and I'm Software developer.
+My name is Junior and I'm Senior Software developer.
 
- - 🔥 In love with JavaScript, TypeScript and GoLang
- - 🔥 Currently learning Java, NodeJs and ReactJs
- - 😄 Also DevOps 
- 
+ - 🔥 In love with Java, TypeScript and GoLang
+
